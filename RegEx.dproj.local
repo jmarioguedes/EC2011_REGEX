@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/12/01 15:20:24.000.542,=C:\Users\mario.guedes\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2011/12/02 00:01:30.000.187,=C:\Users\mario.guedes\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/01/03 23:39:10.000.432,=C:\Users\mario.guedes\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/01/03 23:47:56.000.986,C:\Users\mario.guedes\Documents\RAD Studio\Projects\Unit1.dfm=C:\RegEx\src\Unt_RegEx.dfm</Transaction>
+    <Transaction>2012/01/03 23:47:56.000.986,C:\Users\mario.guedes\Documents\RAD Studio\Projects\Unit1.pas=C:\RegEx\src\Unt_RegEx.pas</Transaction>
+    <Transaction>2012/01/03 23:48:15.000.497,C:\Users\mario.guedes\Documents\RAD Studio\Projects\Project1.dproj=C:\RegEx\src\RegEx.dproj</Transaction>
+    <Transaction>2012/03/24 10:25:08.000.186,=F:\DC2011\Artigo\RegEx\src\Unit1.pas</Transaction>
+    <Transaction>2012/03/24 12:09:48.000.435,=F:\DC2011\Artigo\RegEx\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
